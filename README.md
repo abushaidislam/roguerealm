@@ -4,7 +4,7 @@
 > Every 30 minutes, this repository automatically designs, verifies, and publishes a brand new solvable Roguelike level!
 
 [![Continuous Dungeon Generation](https://github.com/abushaidislam/roguerealm/actions/workflows/daily_update.yml/badge.svg)](https://github.com/abushaidislam/roguerealm/actions)
-[![Level](https://img.shields.io/badge/Current_Dungeon-Level_37-blueviolet.svg?style=flat-square&logo=gamepad)](levels/latest.json)
+[![Level](https://img.shields.io/badge/Current_Dungeon-Level_38-blueviolet.svg?style=flat-square&logo=gamepad)](levels/latest.json)
 [![Difficulty](https://img.shields.io/badge/Difficulty-NIGHTMARE-red.svg?style=flat-square)](levels/latest.json)
 [![Solvability](https://img.shields.io/badge/Solvability-A*_Verified-brightgreen.svg?style=flat-square&logo=checkmarx)](levels/latest.json)
 [![Play Online](https://img.shields.io/badge/Play_in_Browser-HTML5_Canvas-blue.svg?style=for-the-badge&logo=googlechrome)](https://abushaidislam.github.io/roguerealm/)
@@ -16,36 +16,36 @@
 
 ---
 
-## 🗺️ Current Dungeon: `Chamber of Whispering Runes #37`
-*Generated at: **October 01, 2026 - 01:38 AM BST** | Seed: `0xFCDD34`*
+## 🗺️ Current Dungeon: `Dreadkeep of the Forsaken #38`
+*Generated at: **October 01, 2026 - 05:12 AM BST** | Seed: `0xB2FF66`*
 
 ```text
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  👾👾👾🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  👾🚪  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  💀🐉🪤🧱🧱🧱🧱🧱          🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱        🧪🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱          🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱  💀      🧱🧱🧱
-🧱🧱🧱      🧪  🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱    🗝️  🐉🧱🧱🧱
-🧱🧱🧱    🧙‍♂️                                      💀  🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱          🪤🧱🧱🧱🧱🧱  💀🪤    🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱            🧱🧱🧱🧱🧱          🧱🧱🧱
-🧱🧱🧱          🧱🧱🧱                            🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  🐉        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  👾        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱            🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱    💀  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱        🧱🧱🧱          🧱🧱🧱            🧱🧱🧱🧱
+🧱🧱🧱🧱🧱  🧪            💎  🐉🪤        👾    🐉  🧱🧱🧱🧱
+🧱🧱🧱🧱🧱    🪤  🧱🧱🧱    🚪  🪤🧱🧱🧱  🪤  🗝️    🧱🧱🧱🧱
+🧱🧱🧱🧱🧱        🧱🧱🧱  💀🐉💀  🧱🧱🧱        👾  🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  🧱  🧱🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  🧱  🧱🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱          🧱🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱          🧱🧱🧱🧱🧱🧱🧱🧱            🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱    🧙‍♂️    🧱🧱🧱🧱🧱🧱🧱🧱      💀  💎🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱                                🐉    🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱        🧪🧱🧱🧱🧱🧱🧱🧱🧱    🪤      🧱
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 ```
 
 ### 📊 Level Statistics & Solvability
 | Metric | Value | Metric | Value |
 | :--- | :--- | :--- | :--- |
-| **Difficulty Rating** | **`NIGHTMARE`** | **Rooms Carved** | `4 Rooms` |
-| **Monsters Active** | `12 Enemies` (`👾`, `💀`, `🐉`) | **Hidden Traps** | `3 Spikes` (`🔥`) |
-| **Treasure Chests** | `0 Chests` (`💎`) | **Minimum A\* Steps** | `36 Steps to Exit` |
+| **Difficulty Rating** | **`NIGHTMARE`** | **Rooms Carved** | `5 Rooms` |
+| **Monsters Active** | `10 Enemies` (`👾`, `💀`, `🐉`) | **Hidden Traps** | `5 Spikes` (`🔥`) |
+| **Treasure Chests** | `2 Chests` (`💎`) | **Minimum A\* Steps** | `30 Steps to Exit` |
 
 ---
 
