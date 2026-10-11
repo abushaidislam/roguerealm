@@ -4,7 +4,7 @@
 > Every 30 minutes, this repository automatically designs, verifies, and publishes a brand new solvable Roguelike level!
 
 [![Continuous Dungeon Generation](https://github.com/abushaidislam/roguerealm/actions/workflows/daily_update.yml/badge.svg)](https://github.com/abushaidislam/roguerealm/actions)
-[![Level](https://img.shields.io/badge/Current_Dungeon-Level_82-blueviolet.svg?style=flat-square&logo=gamepad)](levels/latest.json)
+[![Level](https://img.shields.io/badge/Current_Dungeon-Level_83-blueviolet.svg?style=flat-square&logo=gamepad)](levels/latest.json)
 [![Difficulty](https://img.shields.io/badge/Difficulty-NIGHTMARE-red.svg?style=flat-square)](levels/latest.json)
 [![Solvability](https://img.shields.io/badge/Solvability-A*_Verified-brightgreen.svg?style=flat-square&logo=checkmarx)](levels/latest.json)
 [![Play Online](https://img.shields.io/badge/Play_in_Browser-HTML5_Canvas-blue.svg?style=for-the-badge&logo=googlechrome)](https://abushaidislam.github.io/roguerealm/)
@@ -16,27 +16,27 @@
 
 ---
 
-## 🗺️ Current Dungeon: `Obsidian Catacombs #82`
-*Generated at: **October 11, 2026 - 03:43 AM BST** | Seed: `0x306FF5`*
+## 🗺️ Current Dungeon: `Sanctum of the Shadow Monk #83`
+*Generated at: **October 11, 2026 - 06:31 AM BST** | Seed: `0x760473`*
 
 ```text
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱          🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱      🪤  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱    🚪  🐉🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱  👾  🪤  🧱🧱        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱  🧱🧱🧱🧱        🧱🧱🧱🧱🧱🧱                🧱🧱🧱🧱
-🧱🧱🧱  🧱🧱🧱🧱    🧙‍♂️  🧱🧱🧱🧱🧱🧱          👾  💎🧱🧱🧱🧱
-🧱🧱        🧱🧱    🧪  🧱🧱🧱🧱🧱🧱                🧱🧱🧱🧱
-🧱🧱  🐉                                    🗝️    👾🧱🧱🧱🧱
-🧱🧱  💀  💀            🧱🧱🧱🧱🧱🧱        🪤      🧱🧱🧱🧱
-🧱🧱  👾    🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱          💎    🧱🧱🧱🧱
-🧱🧱    🪤  🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱  🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱  🧱🧱🧱🧱            🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱  🧱🧱🧱🧱  💀👾  💎  🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱                    💎🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-🧱🧱🧱🧱🧱🧱🧱🧱        🐉👾🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱        🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱                🧱🧱  💎🐉💎🧱🧱🧱🧱🧱🧱🧱🧱🧱          🧱
+🧱                🧱🧱    🚪👾                    🧪    👾🧱
+🧱      👾🪤      🧱🧱        🧱🧱🧱🧱🧱🧱🧱🧱🧱        🪤🧱
+🧱        🗝️                          🧱🧱🧱🧱🧱    🧪🪤  🧱
+🧱          👾    🧱🧱🧱🧱🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱  💎    👾🧱
+🧱                🧱🧱🧱🧱🧱                🧱🧱🧱🧱  🧱🧱🧱
+🧱  💀      🪤    🧱🧱🧱🧱🧱                🧱🧱🧱🧱  🧱🧱🧱
+🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱🧱🧱                🧱🧱          🧱
+🧱🧱🧱🧱🧱  🧱🧱🧱🧱🧱🧱🧱🧱                🧱🧱    💀  👾🧱
+🧱🧱🧱🧱🧱                          🧙‍♂️              💀    🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱                🧱🧱  🪤👾    🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱        🧪      🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱                🧱🧱🧱🧱🧱🧱🧱🧱
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 ```
 
@@ -44,8 +44,8 @@
 | Metric | Value | Metric | Value |
 | :--- | :--- | :--- | :--- |
 | **Difficulty Rating** | **`NIGHTMARE`** | **Rooms Carved** | `5 Rooms` |
-| **Monsters Active** | `12 Enemies` (`👾`, `💀`, `🐉`) | **Hidden Traps** | `4 Spikes` (`🔥`) |
-| **Treasure Chests** | `4 Chests` (`💎`) | **Minimum A\* Steps** | `38 Steps to Exit` |
+| **Monsters Active** | `11 Enemies` (`👾`, `💀`, `🐉`) | **Hidden Traps** | `5 Spikes` (`🔥`) |
+| **Treasure Chests** | `3 Chests` (`💎`) | **Minimum A\* Steps** | `29 Steps to Exit` |
 
 ---
 
